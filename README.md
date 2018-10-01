@@ -9,3 +9,4 @@ Horas de trabalho:
 21/09/18 - Apresentação do Prototipo
 26/09/18 - Leonardo Lourenço 2-3 horas
 28/09/18 - Apresentação do Diagrama de Contexto, Atores e Casos de Uso
+28/09/18 - Luciano Brido 5h
