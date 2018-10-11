@@ -10,3 +10,4 @@ Horas de trabalho:
 26/09/18 - Leonardo Lourenço 2-3 horas
 28/09/18 - Apresentação do Diagrama de Contexto, Atores e Casos de Uso
 28/09/18 - Luciano Brido 5h
+11/10/18 - Luciano Brido 2h
